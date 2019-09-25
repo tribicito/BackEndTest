@@ -1,0 +1,7 @@
+﻿The UserTable should have the following columns
+
+UserId -> Integer autoincrement
+FirstName -> Varchar(255)
+LastName -> VARCHAR(255)
+ColorPreference -> VARCHAR(255)
+Age -> Integer
